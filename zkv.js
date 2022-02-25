@@ -1536,7 +1536,6 @@ let data = {"zkv":[
 {"Chinese":"指向","part":"","English":"point to"},
 {"Chinese":"警察，警务人员","part":"n.","English":"police"},
 {"Chinese":"警察；巡警；","part":"n.","English":"policeman"},
-{"Chinese":"","part":"","English":"(pl. policemen)"},
 {"Chinese":"女警察；女巡警；","part":"n.","English":"policewoman"},
 {"Chinese":"","part":"","English":"(pl.policewomen)"},
 {"Chinese":"政策；方针","part":"n.","English":"policy"},
