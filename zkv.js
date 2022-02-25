@@ -1537,7 +1537,6 @@ let data = {"zkv":[
 {"Chinese":"警察，警务人员","part":"n.","English":"police"},
 {"Chinese":"警察；巡警；","part":"n.","English":"policeman"},
 {"Chinese":"女警察；女巡警；","part":"n.","English":"policewoman"},
-{"Chinese":"","part":"","English":"(pl.policewomen)"},
 {"Chinese":"政策；方针","part":"n.","English":"policy"},
 {"Chinese":"有礼貌的；有教养的","part":"a.","English":"polite"},
 {"Chinese":"污染；玷污；败坏","part":"v.","English":"pollute"},
