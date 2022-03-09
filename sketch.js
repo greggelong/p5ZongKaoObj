@@ -21,7 +21,12 @@
      let index = floor(map(mouseX,0,width,0,vocab.length-1,true)) // true constrains it so you dont get -1
      console.log(index)
      text(vocab[index].Chinese,100,height/2-25)
-     if(mouseIsPressed){
+     if(mouseIsPressed || keyIsPressed){
         text(vocab[index].English,100,height/2+25)
      }
+
+     
+
+ 
+     
  }
